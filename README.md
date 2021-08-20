@@ -32,11 +32,11 @@ You're given a [CSV file](https://github.com/VictoriaMaslova/PredictionMedicalEx
 
 
 ## Data Summary
-![](https://github.com/VictoriaMaslova/PredictionMedicalExpenses/blob/main/Снимок%20экрана%202021-08-20%20в%2017.55.31.png)
+![](https://github.com/VictoriaMaslova/PredictionMedicalExpenses/blob/main/dataset.png)
 
 
 ### Here are some statistics for the numerical columns:
-![](https://github.com/VictoriaMaslova/PredictionMedicalExpenses/blob/main/Снимок%20экрана%202021-08-20%20в%2017.57.52.png)
+![](https://github.com/VictoriaMaslova/PredictionMedicalExpenses/blob/main/somestats.png)
 
 
 
